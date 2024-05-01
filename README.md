@@ -68,5 +68,11 @@ table (you cannot hard-code the values).
 command above it. Only use a single line like the first query. The output should match what is in the `expected_output.txt` file **exactly**, take note 
 of the number of decimal places in some of the query results.
 
+## Result
 
+### Testing
+![Testing](Completed.JPG)
+
+### Submission
+![Submission](Submission.JPG)
 
