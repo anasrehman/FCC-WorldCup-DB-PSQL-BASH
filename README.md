@@ -1,4 +1,4 @@
-# WORLD CUP DATABASE USING PostGreSQL with BASH Script
+# World Cup DB using PostGreSQL with BASH Script
 
 #### Open [file `solution.txt`](solution.txt) To follow my terminal command. Solutions divided into several steps :
     1. Create Database and connect to it.
